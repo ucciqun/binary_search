@@ -24,7 +24,7 @@ int main()
     scanf("%d", &A[i]);
   }
   lb = 0;
-  ub = 1e8 + 1;
+  ub = 1e9 + 1;
   while (ub - lb > 1)
   {
     int mid = (lb + ub) / 2;
