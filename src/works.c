@@ -42,6 +42,6 @@ int main()
       lb = mid;
     }
   }
-  print("%d\n", ub);
+  printf("%d\n", ub);
   return 0;
 }

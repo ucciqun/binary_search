@@ -38,6 +38,5 @@ int main()
     }
   }
   printf("%d\n", lb);
-
   return 0;
 }
